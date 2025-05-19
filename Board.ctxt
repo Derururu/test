@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Board
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ Board.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=Board()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ Board\n
+comment2.params=
+comment2.target=void\ clearBoard()
+comment3.params=
+comment3.target=void\ clearScreen()
+comment4.params=
+comment4.target=void\ display()
+comment5.params=i\ j
+comment5.target=boolean\ isEmpty(int,\ int)
+comment6.params=i\ j
+comment6.target=void\ placeSymbol(int,\ int)
+comment7.params=
+comment7.target=java.lang.String\ check()
+comment8.params=
+comment8.target=java.lang.String\ isFull()
+numComments=9

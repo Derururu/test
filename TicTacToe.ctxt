@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment0.text=\n\ Beschreiben\ Sie\ hier\ die\ Klasse\ TicTacToe.\n\ \n\ @author\ (Ihr\ Name)\ \n\ @version\ (eine\ Versionsnummer\ oder\ ein\ Datum)\n
+comment1.params=
+comment1.target=TicTacToe()
+comment1.text=\n\ Konstruktor\ f\u00FCr\ Objekte\ der\ Klasse\ TicTacToe\n
+comment2.params=row\ col
+comment2.target=void\ enter(int,\ int)
+comment3.params=
+comment3.target=void\ clear()
+comment4.params=
+comment4.target=void\ getWinner()
+numComments=5
