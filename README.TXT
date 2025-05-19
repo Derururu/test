@@ -6,9 +6,10 @@ alles, was er/sie wissen muss. Üblicherweise sollte der Kommentar
 zumindest die folgenden Angaben umfassen:
 ------------------------------------------------------------------------
 
-PROJEKTBEZEICHNUNG:
-PROJEKTZWECK:
+PROJEKTBEZEICHNUNG: 
+PROJEKTZWECK: Bischen Wissen anwenden und wirklich eigenständig coden weil gotta keep the mind sharp, vor allem das habe das hier zwei Tage nach Info Abitur Klausur gemacht, wollte gucken ob ich wirklich mein wissen anwenden kann.
+
 VERSION oder DATUM:
-WIE IST DAS PROJEKT ZU STARTEN:
+WIE IST DAS PROJEKT ZU STARTEN: 
 AUTOR(EN):
-BENUTZERHINWEISE:
+BENUTZERHINWEISE: Start in BlueJ, ein tictactoe instanz erstellen. col und row gehen von 0-2.
